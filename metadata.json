@@ -1,0 +1,6 @@
+{
+  "name": "EZVIZ SEO Localizer",
+  "description": "An automated localization tool for EZVIZ blog posts that preserves HTML styling and SEO structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
